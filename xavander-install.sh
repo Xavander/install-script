@@ -84,11 +84,11 @@ wget https://github.com/Xavander/xavandercoin/releases/download/v1.0.0.1/Xavande
 echo Download complete.
 
 echo Installing Xavander.
-tar -xvf Xavander-linux.tar.gz
+tar -xvf Xavander-Linux.tar.gz
 chmod 775 ./xavanderd
 chmod 775 ./xavander-cli
 echo Xavander install complete. 
-sudo rm -rf Xavander-linux.tar.gz
+sudo rm -rf Xavander-Linux.tar.gz
 clear
 
 echo Now ready to setup Xavander configuration file.
@@ -158,10 +158,10 @@ sudo rm -rf xavander-qt
 wget https://github.com/Xavander/xavandercoin/releases/download/v1.0.0.1/Xavander-Linux.tar.gz
 echo Download complete.
 echo Installing Xavander.
-tar -xvf Xavander-linux.tar.gz
+tar -xvf Xavander-Linux.tar.gz
 chmod 775 ./xavanderd
 chmod 775 ./xavander-cli
-sudo rm -rf Xavander-linux.tar.gz
+sudo rm -rf Xavander-Linux.tar.gz
 ./xavanderd -daemon
 echo Xavander install complete. 
 
