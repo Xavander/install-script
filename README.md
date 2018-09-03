@@ -1,4 +1,4 @@
-![logo](https://github.com/Xavander/xavandercoin/blob/master/src/qt/res/images/Xavander_logo_horizontal.png)
+![logo](https://github.com/Xavander/xavandercoin/blob/master/src/qt/res/images/xavander_logo_horizontal.png)
 
 # Xavander v1.0.0.1 Masternode Setup Guide [ Ubuntu 16.04 ]
 
