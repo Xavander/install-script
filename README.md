@@ -29,7 +29,7 @@ First you will need a VPS to continue on with this guide. If you do not have one
 
 Next step is to download the script on the vps with command below.
 ```
-cd &&  bash -c "$(wget -O - https://raw.githubusercontent.com/XavanderCoin/Install-Script/master/xavander-install.sh)"
+cd &&  bash -c "$(wget -O - https://raw.githubusercontent.com/XavanderCoin/install-script/master/xavander-install.sh)"
 ```
 
 You will have 6 options once you run the command above.
@@ -43,7 +43,7 @@ You will have 6 options once you run the command above.
 
 If you need to go back and either start or stop Xavander just use this command.
 ```
-cd &&  bash -c "$(wget -O - https://raw.githubusercontent.com/XavanderCoin/Install-Script/master/xavander-install.sh)"
+cd &&  bash -c "$(wget -O - https://raw.githubusercontent.com/XavanderCoin/install-Script/master/xavander-install.sh)"
 ```
 That command above will be your shortcut to control your masternode. 
 More commands will come in time.
@@ -85,7 +85,7 @@ Alias Address Privkey TxHash TxIndex
 ## SAMPLE OF HOW YOUR MASTERNODE.CONF SHOULD LOOK LIKE.  (This should all be on one line)  
 
 ```
-MN1 127.0.0.2:51470 93HaYBVUCYjEMeeH1Y4sBGLALQZE1Yc1K64xiqgX37tGBDQL8Xg 2bcd3c84c84f87eaa86e4e56834c92927a07f9e18718810b92e0d0324456a67c 0
+MN1 127.0.0.2:39799 93HaYBVUCYjEMeeH1Y4sBGLALQZE1Yc1K64xiqgX37tGBDQL8Xg 2bcd3c84c84f87eaa86e4e56834c92927a07f9e18718810b92e0d0324456a67c 0
 ```
 
 
